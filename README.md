@@ -1,4 +1,4 @@
-# Food ordering app
+# Food Heaven - Food ordering app
 
 Small web application for ordering food. Some of the features:
 

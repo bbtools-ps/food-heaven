@@ -6,10 +6,10 @@
 .logo svg {
   height: 50px;
   padding: 0 1rem;
-  fill: var(--action-color);
+  fill: var(--color-primary);
 }
 
 .logo a {
   text-decoration: none;
-  color: var(--action-color);
+  color: var(--color-primary);
 }

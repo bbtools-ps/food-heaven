@@ -10,8 +10,11 @@ html {
 
 :root {
   --background-color: #ffc244;
-  --action-color: #00a082;
-  --action-color-hover: #006653;
+  --color-primary: #006653;
+  --color-primary-hover: #00a082;
+  --color-secondary: #92320c;
+  --color-secondary-hover: #b94517;
+  --color-tertiary: #363636;
 }
 
 body {

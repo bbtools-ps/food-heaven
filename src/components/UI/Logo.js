@@ -5,7 +5,11 @@ class Logo extends Component {
   render() {
     return (
       <div className={styles.logo}>
-        <a href="./" style={{ display: "flex", alignContent: "center" }}>
+        <a
+          href="./"
+          style={{ display: "flex", alignContent: "center" }}
+          aria-label="Logo"
+        >
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536.73 665.26">
             <path
               d="M432.23,268.36c0-90.35-73.51-163.87-163.87-163.87S104.49,178,104.49,268.36a162.84,162.84,0,0,0,24,85.29l29.37-29.37a123.88,123.88,0,1,1,57.24,55.9l-29.54,29.54a162.8,162.8,0,0,0,82.8,22.51C358.72,432.23,432.23,358.72,432.23,268.36Z"

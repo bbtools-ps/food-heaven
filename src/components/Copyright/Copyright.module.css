@@ -3,7 +3,7 @@
 }
 
 .copyright-text {
-  color: #000;
+  color: var(--color-tertiary);
 }
 
 .author {

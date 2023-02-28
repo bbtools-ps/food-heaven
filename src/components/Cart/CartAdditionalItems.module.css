@@ -4,8 +4,8 @@
 
 .additional button {
   font: inherit;
-  color: #8a2b06;
-  border: 1px solid #8a2b06;
+  color: var(--color-secondary);
+  border: 1px solid var(--color-secondary);
   text-align: center;
   background-color: transparent;
   cursor: pointer;
@@ -16,22 +16,22 @@
 .additional button:hover,
 .additional button:active,
 .active {
-  background-color: #8a2b06;
+  background-color: var(--color-secondary-hover);
   color: white;
 }
 
 .active {
-  background-color: #8a2b06 !important;
+  background-color: var(--color-secondary-hover) !important;
   color: white !important;
 }
 
 .active span {
-  color: #8a2b06;
+  color: var(--color-secondary);
 }
 
 .additional button:hover span,
 .additional button:active span {
-  color: #8a2b06;
+  color: var(--color-secondary);
 }
 
 .additional span {

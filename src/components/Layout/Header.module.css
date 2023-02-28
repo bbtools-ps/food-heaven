@@ -9,7 +9,7 @@
 }
 
 .header h1 {
-  color: var(--action-color);
+  color: var(--color-primary);
 }
 
 .main-image {

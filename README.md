@@ -10,15 +10,15 @@ This project uses [React.js](https://reactjs.org/), class components and [Redux 
 
 ## Project setup
 
-To install all dependencies type following inside Terminal:
+To install all dependencies:
 
 `npm install`
 
-To run the project in development mode type:
+To start the project in the local development mode:
 
 `npm start`
 
-To make the build type:
+To make the build:
 
 `npm run build`
 

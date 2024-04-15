@@ -11,7 +11,7 @@ class Copyright extends Component {
     return (
       <footer className={styles.copyright}>
         <p className={styles["copyright-text"]}>
-          © {getCurrentDate()}.{" "}
+          <span>&copy; {getCurrentDate()}.</span>
           <span className={styles.author}>{this.props.author}</span>
         </p>
       </footer>
